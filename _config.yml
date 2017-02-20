@@ -2,24 +2,22 @@
 #
 
 # Site settings
-title: Rich Sbresny
+title: ProfWave
 description: |
-  Electrical and Computer Engineering Undergraduate
-description2: |  
+  An Ocean Wave Energy Converter
+description2: |
   Henry M. Rowan College of Engineering
-description3: | 
-  Future [ELDP](http://lockheedmartinjobs.com/leadership-development-program-engineering.aspx)
 owner: Rich Sbresny # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: richardsbresny@gmail.com
-baseurl: "/spectral" # the subpath of your site, e.g. /blog
+baseurl: "/ProfWave" # the subpath of your site, e.g. /blog
 url: "richsbresny.me" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/richardsbresny
-  github: https://github.com/rsbresny
-  linkedin-square: https://linkedin.com/in/richard-sbresny-6a244282
-  facebook-official: https://facebook.com/rsbresny
-  google-plus-square: https://plus.google.com/u/0/+RichardSbresny1
+  #twitter: https://twitter.com/richardsbresny
+  #github: https://github.com/rsbresny
+  #linkedin-square: https://linkedin.com/in/richard-sbresny-6a244282
+  #facebook-official: https://facebook.com/rsbresny
+  #google-plus-square: https://plus.google.com/u/0/+RichardSbresny1
   #email: /contact/
   #flickr:
   #instagram:
