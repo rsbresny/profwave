@@ -501,6 +501,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.style3 {
 			color: _palette(accent4, bg);
 		}
+		&.styleGear {
+			color: #B6B9BC;
+		}
 	}
 
 /* Image */
