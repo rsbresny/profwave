@@ -49,6 +49,20 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	.rotateimg180 {
+	  -webkit-transform:rotate(180deg);
+	  -moz-transform: rotate(180deg);
+	  -ms-transform: rotate(180deg);
+	  -o-transform: rotate(180deg);
+	  transform: rotate(180deg);
+	}
+	.rotateimg90 {
+		-webkit-transform:rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		transform: rotate(90deg);
+	}
 	body, input, select, textarea {
 		color: _palette(fg);
 		font-family: _font(family);
@@ -132,6 +146,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	h4 {
 		font-size: 1em;
 		line-height: 1.5em;
+		margin-bottom: 2cm;
 	}
 
 	h5 {
@@ -143,6 +158,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
+
 
 	sub {
 		font-size: 0.8em;
